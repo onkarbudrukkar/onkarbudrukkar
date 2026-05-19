@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Onkar</h1>
 <h3 align="left">I am Software engineer proficient in multiple programming languages. Passionate about designing and developing innovative solutions. Committed to delivering high-quality code and collaborating effectively in cross-functional teams.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=onkarbudrukkar&label=Profile%20views&color=0e75b6&style=flat" alt="onkarbudrukkar" /></p>
+
 <img align="right" alt="coding gif" width="480" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47746t0owo2wjrxizoncyo3a7fr2uqt3p8xm4lz101&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
