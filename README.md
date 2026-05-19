@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working at Zensar Technologies ltd
   
-- 🌱 I’m currently exploring **React, JavaScript**
+- 🌱 I’m currently exploring opportunities in **React Frontend Development**
 
-- 💬 Ask me about **JavaScript, Reactjs, Nodejs, Material-UI, MongoDB, MySQL**
+- 💬 Ask me about **Java, JavaScript, Reactjs, Springboot, Nodejs, Material-UI, MongoDB, MySQL**
 
-- 📫 How to reach me **onkarbudrukkar@gmail.com**
+- 📫 How to reach me **onkarmbudrukkar@gmail.com**
 
-- ⚡ Fun fact **actually haven't found yet**
+- ⚡ Fun fact **the first computer bug was literally an insect**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
